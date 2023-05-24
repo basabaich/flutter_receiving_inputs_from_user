@@ -3,7 +3,7 @@
 //
 
 import 'package:flutter/material.dart';
-import 'package:practice4_icon_event/new_expense.dart';
+import 'package:./new_expense.dart';
 
 void main() {
   runApp(const MyApp());
