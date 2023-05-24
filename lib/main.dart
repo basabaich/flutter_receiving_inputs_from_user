@@ -3,7 +3,7 @@
 //
 
 import 'package:flutter/material.dart';
-import 'package:./new_expense.dart';
+import './new_expense.dart';
 
 void main() {
   runApp(const MyApp());
